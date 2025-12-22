@@ -23,7 +23,7 @@ repository               : "harry-zehao-li/harry-zehao-li.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Cambridge ID Photo.jpg"
+  avatar           : "Cambridge ID Photo.jpeg"
   name             : 'Zehao "Harry" Li'
   pronouns         : 
   bio              : "High school senior"
